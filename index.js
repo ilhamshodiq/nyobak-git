@@ -1,1 +1,1 @@
-console.log('buat baru');
+let a = 10;
